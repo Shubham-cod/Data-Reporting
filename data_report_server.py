@@ -1,6 +1,3 @@
-# Project: Data reporter
-# Author:  Shubham Agarwal
-# Date:    01/06/2020
 
 ####################################   creating socket TCP server to recieve the data   #########################################
 
