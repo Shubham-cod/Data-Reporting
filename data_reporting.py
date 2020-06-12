@@ -1,6 +1,3 @@
-# Project: Data reporter
-# Author:  Shubham Agarwal
-# Date:    01/06/2020
 
 #importing modules
 import csv
