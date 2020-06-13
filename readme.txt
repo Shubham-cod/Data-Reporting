@@ -1,5 +1,5 @@
 Aim:
-Aim of this project is to read data from a csv file, in this case we are reading sensor 1 and sensor 2 values. We then compare each sensor value data with the previous data and check wether it exceeds the threshold value, if it exceeds then we increase the number of count and store that value in csv format in a list and then send to a server. The threshold value is input/asked by user for both the sensors.
+Aim of this project is to read data from a csv file, eg. uploaded 'data_input_file.csv' in repository as sample, in this case we are reading sensor 1 and sensor 2 values. We then compare each sensor value data with the previous data and check wether it exceeds the threshold value, if it exceeds then we increase the number of count and store that value in csv format in a list and then send to a server. The threshold value is input/asked by user for both the sensors.
 
 Following
 --> data_reporting.py file
